@@ -81,7 +81,3 @@ echo "---------------------------"
 sudo nohup ./xengpuminer -d5 > xengpuminer-5.log 2>&1 &
 sleep 5
 echo "---------------------------"
-
-sudo nohup ./xengpuminer -d6 > xengpuminer-6.log 2>&1 &
-sleep 5
-echo "---------------------------"
