@@ -15,17 +15,32 @@ Easily set up a GPU mining server for XENBLOCKS mining. A single line of code in
      
    For single GPU use vast.sh:
       ```
-   sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/JozefJarosciak/xgpu/main/vast.sh && sudo chmod +x vast.sh && sudo ./vast.sh
+   sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/HUNDavid/XEND/main/vast.sh && sudo chmod +x vast.sh && sudo ./vast.sh
       ```
 
    For 4 X GPU use vast4.sh:
       ```
-   sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/JozefJarosciak/xgpu/main/vast4.sh && sudo chmod +x vast4.sh && sudo ./vast4.sh
+   sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/HUNDavid/XEND/main/vast4.sh && sudo chmod +x vast4.sh && sudo ./vast4.sh
+      ```      
+
+   For 5 X GPU use vast4.sh:
+      ```
+   sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/HUNDavid/XEND/main/vast4.sh && sudo chmod +x vast4.sh && sudo ./vast5.sh
+      ```      
+
+   For 6 X GPU use vast4.sh:
+      ```
+   sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/HUNDavid/XEND/main/vast4.sh && sudo chmod +x vast4.sh && sudo ./vast6.sh
+      ```      
+
+   For 7 X GPU use vast4.sh:
+      ```
+   sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/HUNDavid/XEND/main/vast4.sh && sudo chmod +x vast4.sh && sudo ./vast7.sh
       ```      
 
    For 8 X GPU use vast8.sh:
       ```
-   sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/JozefJarosciak/xgpu/main/vast8.sh && sudo chmod +x vast8.sh && sudo ./vast8.sh
+   sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/HUNDavid/XEND/main/vast8.sh && sudo chmod +x vast8.sh && sudo ./vast8.sh
       ```
 
 1.1 **VAST.AI Video DEMO**:
